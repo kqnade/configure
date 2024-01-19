@@ -157,7 +157,7 @@ gaps inner 12
 bindsym button2 kill
 
 # Startup apps
-exec --no-startup-id "nitrogen --set-zoom-fill ~/.personalconf/wp/113622490_p0.jpg"
+exec --no-startup-id "nitrogen ~/.personalconf/wp/113622490_p0.jpg"
 exec --no-startup-id "~/.config/polybar/default/launch.sh"
 exec --no-startup-id "compton"
 
